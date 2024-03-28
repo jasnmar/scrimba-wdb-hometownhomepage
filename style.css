@@ -18,6 +18,7 @@ body {
     background-image: url("./images/BORHero.png");
     background-size: cover;
 }
+
 .headshot {
     width: 240px;
     border-radius: 20px;
@@ -28,49 +29,45 @@ body {
 .cardText {
     width:180px;
 }
+
 .card {
-    display: flex;
     display: flex;
     padding: 20px;
     justify-content: space-around;
     width: 500px;
     margin: 40px auto;
-    text-align: center;
     background-color: #a3b18a;
     border-radius: 20px;
-    color: #2b2839
-}
-.poptext {
-    text-shadow: 3px 3px 3px black;
+
 }
 
 .act-img {
     width:120px;
     height:120px;
     border-radius: 200px;
-
 }
+
 #topActHeader {
     margin-top:0;
     padding-top:40px;
 
 }
+
 #topactivities {
     width:720px;
     background-color: #c2c5aa;
 }
+
 .activity {
     margin-top: 30px;
     margin-bottom: 40px;
     width:200px;
-
 }
+
 #activities {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    
-    
 }
 
 #HeroText {
@@ -80,6 +77,7 @@ body {
     border-radius: 10px;
     color:white;
 }
+
 .subtext {
     background-color: #936639;
     padding: 6px 12px;
